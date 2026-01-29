@@ -15,7 +15,6 @@ https://leetcode.com/problems/squares-of-a-sorted-array/description/
 
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 
-
 https://leetcode.com/problems/merge-sorted-array/description/ 
 	
 
@@ -28,6 +27,8 @@ https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 https://leetcode.com/problems/sort-colors/
 
 https://leetcode.com/problems/3sum/description/
+
+https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/
 
 ## Hard
 
