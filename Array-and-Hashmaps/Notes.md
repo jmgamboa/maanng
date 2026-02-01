@@ -1,0 +1,4 @@
+## Leetcode 128 Longest Consecutive Sequence
+1. approach is to sort nums. then iterate through nums counting the longest sequence. because sorting it is a time complexity of O(n log n) and because we ned to iterate through the sorted listed the final time complexity will be O(n) + O(n log n)
+
+2. the best approach is to create a set from nums which will remove duplicates and create a O(1) lookup. we can then iterate through the set and identify if a number is the start of a sequence. if it is, see if the next value is in the set and continue to do so until the next value is not found. this results in a time complexity of O(n) and space complexity of O(n) (creating the new set)
