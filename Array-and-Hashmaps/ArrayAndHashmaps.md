@@ -19,6 +19,9 @@ https://leetcode.com/problems/longest-consecutive-sequence/description/
 ### Valid Sudoku
 https://leetcode.com/problems/valid-sudoku/
 
+### Encode decode strings
+https://neetcode.io/problems/string-encode-and-decode/
+
 ### Product of array except self
 https://leetcode.com/problems/product-of-array-except-self/
 <!-- Prerequisites -->
@@ -26,5 +29,4 @@ https://leetcode.com/problems/product-of-array-except-self/
 - https://leetcode.com/problems/left-and-right-sum-differences/description/ (easy medium)
 - https://leetcode.com/problems/range-sum-query-immutable/description/
 
-https://neetcode.io/problems/string-encode-and-decode/
 

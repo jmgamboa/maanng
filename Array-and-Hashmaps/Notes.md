@@ -1,4 +1,6 @@
 ## Top K Frequent
+Should try both approaches. Not just optimized
+
 1. approach 1. iterate, count, use a heap. but this will be O of n log n because a heap lookup is 
 
 2. iterate, store counts in hashmap, go through hashmap and store in frequency buckets where the index of the bucket is actually the count
