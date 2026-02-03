@@ -20,42 +20,15 @@ You should be comfortable with:
 ---
 
 ## 🧩 Patterns We’ll Master (Progressive)
-- 🪟 Sliding Window  
+- 🗂️ Arrays and Hashmaps
 - 🔁 Two Pointers  
-- 🧺 Hashing & Frequency Maps  
 - 🧱 Stack (Monotonic + classic)  
+- 🪟 Sliding Window  
 - 🌳 Trees (DFS/BFS basics)  
+- 🧺 Hashing & Frequency Maps  
 - 🔍 Binary Search (incl. “answer space”)  
 - 🧵 Backtracking (subsets/permutations)  
-- 🧠 Dynamic Programming (intro → common forms)
-
----
-
-## 🧰 How I Use AI
-AI is my **coach**, not my crutch:
-- ✅ Ask for hints
-- ✅ Ask to review my code + edge cases
-- ✅ Ask for an explanation or visualization
-
-
----
-
-## 📌 Recommended Curriculum Order
-- [ ] Arrays and Hashmaps
-- [ ] Two Pointers  
-- [ ] Stacks
-- [ ] Sliding Window
-- [ ] Binary Search 
-- [ ] Linked List  
-- [ ] Trees
-- [ ] Tries 
-- [ ] Backtracking  
-- [ ] Heaps | Priority Queues 
-- [ ] Intervals
-- [ ] Greedy
-- [ ] Graphs
-- [ ] 1-D Dynamic Programming
-- [ ] 2-D Dynamic Programming
+- 🧠 Dynamic Programming
 
 ---
 
