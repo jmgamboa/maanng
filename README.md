@@ -3,6 +3,8 @@
 👋  
 I’ve always struggled with leetcode. With existing programs like Neetcode 150 or Blind 75, there is too much of a gap between an easy and a medium problem. This is why I developed a **progressive** curriculum: Easy problems that build upon another and lead into medium level difficulty and having the foundations to even tackle hard problems. I hope this helps you as much as it has helped me.
 
+**credit** this is heavily inspired by Neetcode's program
+
 ---
 
 ## 🎯 Goal
