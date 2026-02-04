@@ -13,18 +13,20 @@ Learn LeetCode by mastering **core patterns** (not memorizing solutions), throug
 
 ## 🧱 Prerequisites
 You should be comfortable with:
-- Variables, loops, conditionals, functions
+- your programming language of choice
+- loops, conditionals, built-in functions
+- different O notations
 
 ---
 
-## 🧩 Patterns We’ll Master (Progressive)
+## 🧩 Curriculum (Recommended Order)
 - 🗂️ Arrays and Hashmaps
 - 🔁 Two Pointers  
 - 🧱 Stack (Monotonic + classic)  
 - 🪟 Sliding Window  
 - 🌳 Trees (DFS/BFS basics)  
 - 🧺 Hashing & Frequency Maps  
-- 🔍 Binary Search (incl. “answer space”)  
+- 🔍 Binary Search
 - 🧵 Backtracking (subsets/permutations)  
 - 🧠 Dynamic Programming
 
@@ -32,4 +34,4 @@ You should be comfortable with:
 
 ## 🏁 North Star
 **Consistency beats intensity.**  
-Even 30–60 minutes/day adds up. 📈🔥
+60 minutes/day adds up. 📈🔥
