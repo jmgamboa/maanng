@@ -30,10 +30,12 @@ https://leetcode.com/problems/3sum/description/
 
 https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/
 
-
 <!-- Reinforced Medium Concepts -->
 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
 
+
+## Medium -> Hard Transition
+https://chatgpt.com/c/6982cc50-60b8-8327-9e5a-b8db6b7683f0
 
 ## Hard
 
