@@ -12,3 +12,6 @@ https://chatgpt.com/c/6982cc50-60b8-8327-9e5a-b8db6b7683f0 # DP approach
 https://leetcode.com/problems/valid-parenthesis-string/ Greedy
 
 https://leetcode.com/problems/reorder-data-in-log-files/ Arrays, Tuples, builtin-sort
+
+### Rotten Oranges
+https://leetcode.com/problems/rotting-oranges/description/

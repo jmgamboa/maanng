@@ -9,6 +9,7 @@ https://leetcode.com/problems/running-sum-of-1d-array/description/
 
 
 ## Medium
+Ordered from easiest to hardest
 
 ### Minimum Changes to Make 2 strings anagram
 https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/

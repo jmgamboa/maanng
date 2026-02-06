@@ -7,8 +7,6 @@ https://leetcode.com/problems/reverse-string/description/
 
 https://leetcode.com/problems/valid-palindrome/description/
 
-<!-- easy-med -->
-
 https://leetcode.com/problems/move-zeroes/
 
 https://leetcode.com/problems/squares-of-a-sorted-array/description/
@@ -19,6 +17,7 @@ https://leetcode.com/problems/merge-sorted-array/description/
 	
 
 ## Medium
+Ordered from easiest to hardest
 
 https://leetcode.com/problems/container-with-most-water/
 
@@ -33,9 +32,9 @@ https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/
 <!-- Reinforced Medium Concepts -->
 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
 
+<!-- Harder Medium -->
+https://leetcode.com/problems/longest-palindromic-substring/description/
 
-## Medium -> Hard Transition
-https://chatgpt.com/c/6982cc50-60b8-8327-9e5a-b8db6b7683f0
 
 ## Hard
 

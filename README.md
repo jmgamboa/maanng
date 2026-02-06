@@ -1,9 +1,9 @@
 # 🚀 DSA Patterns Curriculum 
 
 👋  
-I’ve always struggled with leetcode. With existing programs like Neetcode 150 or Blind 75, there is too much of a gap between an easy and a medium problem. This is why I developed a **progressive** curriculum: Easy problems that build upon another and lead into medium level difficulty and having the foundations to even tackle hard problems. I hope this helps you as much as it has helped me.
+With popular sets like NeetCode 150 or Blind 75, there can be a big gap from Easy to Medium. And even the concepts within Mediums feel sparse and not bridged together. That’s why I put together a **progressive** curriculum: a sequence of problems that gradually introduce atomic concepts and patterns you’ll need to tackle more complex ones.  
 
-**credit** this is heavily inspired by Neetcode's program
+This is heavily inspired by Neetcode's program
 
 ---
 
