@@ -36,6 +36,9 @@ https://leetcode.com/problems/simplify-path/description/
 ### Car Fleet
 https://leetcode.com/problems/car-fleet/
 
+### Minimum to remove parenthesis
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+
 ## Hard
 
 ### Largest rectangle in histogram
