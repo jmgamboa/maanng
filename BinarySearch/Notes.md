@@ -5,10 +5,8 @@ The clean “pattern map” for each problem, in the same easiest → hardest pr
 Pattern: Binary search on an implicitly 1D sorted structure
 Teaches: Index mapping + standard BS template
 Invariant: Treat matrix as sorted array where mid -> (r=mid//n, c=mid%n)
-Shape:
-
-lo=0, hi=m*n-1
-
+Shape: 
+lo = 0 mid = m * n - 1
 compare matrix[mid//n][mid%n] with target
 
 2) Find Minimum in Rotated Sorted Array (LC 153)

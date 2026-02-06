@@ -11,7 +11,6 @@ https://leetcode.com/problems/kth-missing-positive-number/description/
 
 
 ## Medium
-Ordered from easiest to hardest
 https://leetcode.com/problems/search-a-2d-matrix/description/
 
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
