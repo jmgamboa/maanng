@@ -1,6 +1,8 @@
 ## Easy
 https://leetcode.com/problems/contains-duplicate/description/
 
+https://leetcode.com/problems/jewels-and-stones/
+
 https://leetcode.com/problems/valid-anagram/
 
 https://leetcode.com/problems/two-sum/
@@ -33,4 +35,5 @@ https://leetcode.com/problems/product-of-array-except-self/
 - https://leetcode.com/problems/left-and-right-sum-differences/description/ (easy medium)
 - https://leetcode.com/problems/range-sum-query-immutable/description/
 
-
+### Design Underground System (late add)
+https://leetcode.com/problems/design-underground-system/description/
