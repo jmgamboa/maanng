@@ -1,3 +1,6 @@
+# Arrays
+Arrays, hashmaps, sets, tuples, and string patterns
+
 ## Easy
 https://leetcode.com/problems/contains-duplicate/description/
 
@@ -8,6 +11,8 @@ https://leetcode.com/problems/valid-anagram/
 https://leetcode.com/problems/two-sum/
 
 https://leetcode.com/problems/running-sum-of-1d-array/description/
+
+https://leetcode.com/problems/longest-common-prefix/
 
 
 ## Medium
@@ -35,5 +40,5 @@ https://leetcode.com/problems/product-of-array-except-self/
 - https://leetcode.com/problems/left-and-right-sum-differences/description/ (easy medium)
 - https://leetcode.com/problems/range-sum-query-immutable/description/
 
-### Design Underground System (late add)
+### Design Underground System (add)
 https://leetcode.com/problems/design-underground-system/description/

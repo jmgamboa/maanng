@@ -15,3 +15,20 @@ https://leetcode.com/problems/reorder-data-in-log-files/ Arrays, Tuples, builtin
 
 ### Rotten Oranges
 https://leetcode.com/problems/rotting-oranges/description/
+
+### Next Greater Element III
+https://leetcode.com/problems/next-greater-element-iii/ Greedy
+
+
+
+https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+
+https://leetcode.com/problems/lfu-cache/description/
+
+https://leetcode.com/problems/binary-tree-right-side-view/description/
+
+https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/
+
+
+
+https://leetcode.com/problems/integer-to-roman/description/ Greedy
