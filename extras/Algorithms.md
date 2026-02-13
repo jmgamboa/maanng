@@ -1,3 +1,13 @@
 Markov chain
 
-DNF
+Dutch National Flag
+
+Kruskals
+
+Djikstras
+
+Prims
+
+Manhattan distance
+
+Kadanes

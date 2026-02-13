@@ -1,15 +1,20 @@
 ## Easy
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+(added)
 https://leetcode.com/problems/maximum-average-subarray-i/description/
 
+(added)
 https://leetcode.com/problems/defuse-the-bomb/description/
 
+(added)
 https://leetcode.com/problems/contains-duplicate-ii/description/
 
 ## Medium
 Ordered from easiest to hardest
 
-### Number of sub arrays of size k and average greater than or equal to threshold
-https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/
+### Number of sub arrays of size k and average greater than or equal to threshold 
+https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/ 
  
 ### Max points you can obtain from cards
 https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
@@ -25,6 +30,9 @@ https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/de
 
 ### Longest substring without repeating characters
 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
+### Logest substring repeating characters
+https://leetcode.com/problems/longest-repeating-character-replacement/
 
 
 ### Hard

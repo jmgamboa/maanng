@@ -14,6 +14,9 @@ https://leetcode.com/problems/running-sum-of-1d-array/description/
 
 https://leetcode.com/problems/longest-common-prefix/
 
+<!-- reinforced -->
+https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
+
 
 ## Medium
 Ordered from easiest to hardest
