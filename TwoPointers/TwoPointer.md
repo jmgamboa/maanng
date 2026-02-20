@@ -15,6 +15,7 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 
 https://leetcode.com/problems/merge-sorted-array/description/ 
 	
+https://leetcode.com/problems/valid-palindrome-ii/ (added)
 
 ## Medium
 Ordered from easiest to hardest
